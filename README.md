@@ -217,13 +217,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] Dia 03: Outras Ferramentas de Raspagem de Dados
 - [ ] Dia 04: Projeto - Tech news
 
-
 ### Seção 04 - Algoritmos
 - [ ] Dia 01: Complexidade de Algoritmos
 - [ ] Dia 02: Recursividade e Estratégias para solução de problemas
 - [ ] Dia 03: Algoritmos de ordenação e busca
 - [ ] Dia 04: Projeto - Algoritmos
-
 
 ### Seção 05 - Estrutura de Dados I: Arrays, Listas, Filas e Pilhas
 - [ ] Dia 01: Arquitetura de Computadores
@@ -231,7 +229,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] Dia 03: Nó e Listas Encadeadas
 - [ ] Dia 04: Pilhas e Filas
 - [ ] Dia 05: Projeto - TING - Trybe Is Not Google
-
 
 ### Seção 06 - Estrutura de Dados II: Hashmaps e Sets
 - [ ] Dia 01: Hashmap e Dict
