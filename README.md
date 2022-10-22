@@ -9,7 +9,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ## Módulo 01 - Fundamentos :white_check_mark:
 
 ### Seção 01 - Unix & Bash
-- [ ] Dia 01: Unix & Bash - parte 01
+- [x] Dia 01: Unix & Bash - parte 01
 - [ ] Dia 02: Unix & Bash - parte 02
 
 ### Seção 02 - Git & GitHub
